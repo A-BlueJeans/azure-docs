@@ -104,6 +104,8 @@ This section guides you through the steps to configure the Azure AD provisioning
    * In the **Admin Username** field, populate the username of the admin account on your BlueJeans tenant. Example: admin@contoso.com.
 
    * In the **Admin Password** field, populate the password corresponding to the admin username.
+   
+   NOTE: Please make sure to use non-SSO login in this section. If you are not sure about the non-SSO credentials, please reach out to BlueJeans Support (https://support.bluejeans.com/s/contactsupport)
 
 6. Upon populating the fields shown in Step 5, click **Test Connection** to ensure Azure AD can connect to BlueJeans. If the connection fails, ensure your BlueJeans account has Admin permissions and try again.
 
